@@ -1,0 +1,14 @@
+{
+  "name": "cron-diff",
+  "version": "1.0.0",
+  "description": "Computes the time difference of a crontab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rami Hikmat",
+  "license": "MIT",
+  "dependencies": {
+    "cron-parser": "^2.15.0"
+  }
+}
